@@ -1,25 +1,43 @@
-# Lab-3-Railway-Reservation
+# NAME: YESWANTH PEDDEPI
+# REG NO:212224040234
+# Exp - 3 RAILWAY RESERVATION SYSTEM
 
-### AIM:
-To develop the Railway Reservation System using Star UML tool.
-### PROBLEM STATEMENT:
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
-passengers, particularly in the commercial airline, railway industries.
-2. An E-Ticket offers many advantages for both travelers and airline including security,
-flexibility and cost convenience. At the same time, it also provides the standard assurance of
-the traditional paper ticket, scaling choice, travel time options and other flexibilities.
-3. Passengers typically print out copies of their E-Ticket including confirmation E-mail
-and other document. All those documents can be replaced by pulling them out of the computer
-again and only a person with proper identification can actually use an E-Ticket.
-4. E-Ticket passengers can receive everything from gate assignments to cancellation or
-delay through E-mail, text messages sent to their home or business computers or to their cell
-phones.
-5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
-of the online bus ticket system is to provide another way for transnational customers to buy
-their tickets.
-### UML DIAGRAMS:
+# AIM : To develop the Online Ticket Reservation System using Star UML tool.
 
+# SRS (Procedure) :
 
+1. Step 1 - Open StarUML and start a new project.
+2. Step 2 - Name the project based on the system (e.g., ATM, Library).
+3. Step 3 - Identify actors and use cases from the system requirements.
+4. Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+5. Step 5 - Add elements using the toolbox and connect them properly.
+6. Step 6 - Label all components clearly and meaningfully.
+7. Step 7 - Save and export diagrams as images or PDF.
 
-### RESULT:
-Thus the project to develop e-ticketing system was developed using Star UML Software.
+# DIAGRAMS:
+
+### DIAGRAM 1 - USE CASE
+
+![usecase](https://github.com/user-attachments/assets/088e5b18-a6bc-4714-91b8-7dde88be9037)
+
+### DIAGRAM 2 - CLASS
+![class](https://github.com/user-attachments/assets/de617dda-a461-4e8c-88b2-c7142115887b)
+
+### DIAGRAM 3 - ACTIVITY
+
+![activity](https://github.com/user-attachments/assets/10853226-6347-417b-a6c5-e190e0b1ef2e)
+
+### DIAGRAM 4 - SEQUENCE
+
+![sequence](https://github.com/user-attachments/assets/3d4e85f2-93a1-486c-947b-ab6ac478b016)
+
+### DIAGRAM 5 - PACKAGE
+
+![package](https://github.com/user-attachments/assets/59df388f-3390-466d-a8a5-c2aec5c1b3ac)
+
+### DIAGRAM 6 - COMMUNICATION
+
+![communication](https://github.com/user-attachments/assets/aee932b6-e399-4c6b-b83b-aa8b7c6a3f14)
+
+# RESULT:
+Thus, the Online Ticket Reservation System was created successfully.
